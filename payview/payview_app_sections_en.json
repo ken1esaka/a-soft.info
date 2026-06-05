@@ -1,0 +1,92 @@
+[
+    {
+        "sec": "Chord Finder",
+        "apps": [
+            {
+                "name": "G-Chord",
+                "title": "Chord Book for guitar",
+                "subtitle": "Guitar Chord Book for Beginners",
+                "iconfile": "GChord_icon_144R",
+                "url": "itms-apps://itunes.apple.com/app/id562152709"
+            },
+            {
+                "name": "G-Chord pro",
+                "title": "For acoustic guitar",
+                "subtitle": "Supports fraction chords and alternate tuning",
+                "iconfile": "GChord2_icon_144R",
+                "url": "itms-apps://itunes.apple.com/app/id887935240"
+            },
+            {
+                "name": "E-Chord",
+                "title": "For electric guitar",
+                "subtitle": "Supports fraction chords and alternate tuning",
+                "iconfile": "EChord_icon_144R",
+                "url": "itms-apps://itunes.apple.com/app/id700326255"
+            },
+            {
+                "name": "P-Chord",
+                "title": "Chord Book for piano",
+                "subtitle": "Piano Chord Book for One Hand",
+                "iconfile": "PChord_icon_144R",
+                "url": "itms-apps://itunes.apple.com/app/id564188907"
+            },
+            {
+                "name": "U-Chord",
+                "title": "Chord Book for Ukulele",
+                "subtitle": "Simple Chord Book for Ukulele",
+                "iconfile": "UChord_icon_144R",
+                "url": "itms-apps://itunes.apple.com/app/id564189732"
+            },
+            {
+                "name": "BU-Chord",
+                "title": "Chord Book for Baritone Ukulele",
+                "subtitle": "Simple Chord Book for Baritone Ukulele",
+                "iconfile": "BUChord_icon_144R",
+                "url": "itms-apps://itunes.apple.com/app/id1053286493"
+            }
+        ]
+    },
+    {
+        "sec": "Musical instrument app",
+        "apps": [
+            {
+                "name": "Amagi",
+                "title": "Amagi",
+                "subtitle": "(Percussion+)",
+                "iconfile": "Amagi_icon_144R",
+                "url": "itms-apps://itunes.apple.com/app/id1027683909"
+            }
+        ]
+    },
+    {
+        "sec": "Calculator with simple history function",
+        "apps": [
+            {
+                "name": "A-Calc0",
+                "title": "Simple Calculator",
+                "subtitle": "It has a list of one row",
+                "iconfile": "ACalc0_icon_144R",
+                "url": "itms-apps://itunes.apple.com/app/id975963608"
+            }
+        ]
+    },
+    {
+        "sec": "Other apps",
+        "apps": [
+            {
+                "name": "Pocket Notify",
+                "title": "Pocket Notify",
+                "subtitle": "Quietly inform the time",
+                "iconfile": "Chimer_icon_144R",
+                "url": "itms-apps://itunes.apple.com/app/id673940177"
+            },
+            {
+                "name": "C-Mail",
+                "title": "Send photos directly",
+                "subtitle": "You can easily send photos.",
+                "iconfile": "CMail_icon_144R",
+                "url": "itms-apps://itunes.apple.com/app/id995918660"
+            }
+        ]
+    }
+]

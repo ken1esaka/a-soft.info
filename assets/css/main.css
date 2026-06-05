@@ -1,0 +1,208 @@
+/* =========================
+   Reset
+========================= */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.6;
+  color: #222;
+  background: #ffffff;
+}
+
+a {
+  text-decoration: none;
+  color: #0077cc;
+}
+
+a:hover {
+  opacity: 0.8;
+}
+
+/* =========================
+   Layout
+========================= */
+.container {
+  width: 90%;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+/* =========================
+   Header
+========================= */
+.site-header {
+  background: #111;
+  color: #fff;
+  padding: 15px 0;
+}
+
+.site-header .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* ロゴ */
+.site-logo {
+  height: 100px;   /* PCサイズ */
+  width: auto;
+  display: block;
+}
+
+/* ナビ */
+.site-header nav {
+  margin-top: 0;
+}
+
+.site-header nav a {
+  color: #fff;
+  margin-left: 20px;
+  font-size: 14px;
+}
+
+/* スマホ用 */
+@media (max-width: 768px) {
+  .site-logo {
+    height: 50px;
+  }
+
+  .site-header nav a {
+    font-size: 13px;
+    margin-left: 12px;
+  }
+}
+/* =========================
+   Hero
+========================= */
+.hero {
+  padding: 80px 0;
+  text-align: center;
+  background: #f5f7fa;
+}
+
+.hero h2 {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.hero p {
+  font-size: 18px;
+  color: #555;
+}
+
+/* =========================
+   Sections
+========================= */
+.apps-section {
+  padding: 60px 0;
+}
+
+.apps-section h2 {
+  font-size: 24px;
+  margin-bottom: 30px;
+}
+
+/* =========================
+   App Grid
+========================= */
+.app-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 28px;
+}
+
+/* =========================
+   App Card – Apple風
+========================= */
+
+.app-card {
+  background: #ffffff;
+  border-radius: 20px;
+  padding: 28px 24px 30px 24px;
+  text-align: center;
+  border: 1px solid #f0f0f0;
+  transition: all 0.25s ease;
+}
+
+.app-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 20px 40px rgba(0,0,0,0.08);
+  border-color: #e5e5e5;
+}
+
+/* アイコン */
+.app-icon {
+  width: 96px;
+  height: 96px;
+  border-radius: 22%;
+  object-fit: contain;
+  margin-bottom: 18px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.08);
+  transition: transform 0.2s ease;
+}
+
+.app-card:hover .app-icon {
+  transform: scale(1.05);
+}
+
+/* アプリ名 */
+.app-card h3 {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
+/* 説明文 */
+.app-card p {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 18px;
+}
+
+/* ボタン */
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 14px;
+  border-radius: 999px;
+  background: #111;
+  color: #fff;
+  transition: all 0.2s ease;
+}
+
+.btn:hover {
+  background: #333;
+}
+
+/* =========================
+   Footer
+========================= */
+.site-footer {
+  padding: 30px 0;
+  background: #111;
+  color: #fff;
+  text-align: center;
+  font-size: 14px;
+}
+
+.site-footer a {
+  color: #fff;
+  margin-left: 10px;
+}
+
+/* =========================
+   App Detail Icon
+========================= */
+.app-icon-large {
+  width: 140px;
+  height: auto;
+  margin: 0 auto 24px auto;
+  display: block;
+  border-radius: 22%;
+  box-shadow: 0 15px 30px rgba(0,0,0,0.08);
+}

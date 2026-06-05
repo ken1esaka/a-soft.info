@@ -1,0 +1,118 @@
+[
+    {
+        "sec": "メモアプリです。",
+        "apps": [
+            {
+                "name": "A-Note",
+                "title": "メモ",
+                "subtitle": "グループ別メモ",
+                "iconfile": "Anote2_icon_144R",
+                "url": "itms-apps://itunes.apple.com/app/id6449475653"
+            },
+            {
+                "name": "CCList",
+                "title": "CCList",
+                "subtitle": "買い物・旅行・持ち物チェックリスト",
+                "iconfile": "CCList_icon_144R",
+                "url": "itms-apps://itunes.apple.com/app/id6753613071"
+            }
+        ]
+    },
+    {
+        "sec": "コード検索アプリです。",
+        "apps": [
+            {
+                "name": "G-Chord",
+                "title": "ギター",
+                "subtitle": "初心者向きギターコードブック",
+                "iconfile": "GChord_icon_144R",
+                "url": "itms-apps://itunes.apple.com/app/id562152709"
+            },
+            {
+                "name": "G-Chord pro",
+                "title": "アコースティックギター仕様",
+                "subtitle": "分数コードや変則チューニングにも対応",
+                "iconfile": "GChord2_icon_144R",
+                "url": "itms-apps://itunes.apple.com/app/id887935240"
+            },
+            {
+                "name": "E-Chord",
+                "title": "エレキギター仕様",
+                "subtitle": "分数コードや変則チューニングにも対応",
+                "iconfile": "EChord_icon_144R",
+                "url": "itms-apps://itunes.apple.com/app/id700326255"
+            },
+            {
+                "name": "P-Chord",
+                "title": "ピアノ",
+                "subtitle": "片手で弾けるピアノ用コードブック",
+                "iconfile": "PChord_icon_144R",
+                "url": "itms-apps://itunes.apple.com/app/id564188907"
+            },
+            {
+                "name": "U-Chord",
+                "title": "ウクレレ",
+                "subtitle": "ウクレレ用コードブック",
+                "iconfile": "UChord_icon_144R",
+                "url": "itms-apps://itunes.apple.com/app/id564189732"
+            },
+            {
+                "name": "BU-Chord",
+                "title": "バリトン ウクレレ",
+                "subtitle": "バリトン ウクレレ用コードブック",
+                "iconfile": "BUChord_icon_144R",
+                "url": "itms-apps://itunes.apple.com/app/id1053286493"
+            }
+        ]
+    },
+    {
+        "sec": "ちょっとした演奏が出来ます。",
+        "apps": [
+            {
+                "name": "Amagi",
+                "title": "天城",
+                "subtitle": "打楽器アプリ",
+                "iconfile": "Amagi_icon_144R",
+                "url": "itms-apps://itunes.apple.com/app/id1027683909"
+            }
+        ]
+    },
+    {
+        "sec": "すべてリスト付き(数字を修正出来る)電卓です。",
+        "apps": [
+            {
+                "name": "A-Calc0",
+                "title": "1列シンプル電卓",
+                "subtitle": "1列のリストを持ったシンプルな電卓",
+                "iconfile": "ACalc0_icon_144R",
+                "url": "itms-apps://itunes.apple.com/app/id975963608"
+            }
+        ]
+    },
+    {
+        "sec": "こんなアプリもあります。",
+        "apps": [
+            {
+                "name": "Pocket Notify",
+                "title": "ポケット通知",
+                "subtitle": "毎日静かに時刻をお知らせします",
+                "iconfile": "Chimer_icon_144R",
+                "url": "itms-apps://itunes.apple.com/app/id673940177"
+            },
+            {
+                "name": "SmartQP",
+                "title": "クイックB",
+                "subtitle": "クイックボンバー(宝くじの数字をクイックピック)",
+                "iconfile": "SMartQP_icon_144R",
+                "url": "itms-apps://itunes.apple.com/app/id989482147"
+            },
+            {
+                "name": "C-Mail",
+                "title": "カメラからメール",
+                "subtitle": "写真を撮って文字入れてすぐ送信",
+                "iconfile": "CMail_icon_144R",
+                "url": "itms-apps://itunes.apple.com/app/id995918660"
+            }
+        ]
+    }
+]

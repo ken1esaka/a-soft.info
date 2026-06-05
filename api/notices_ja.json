@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "locale": "ja",
+  "generatedAt": "2026-04-30",
+  "notices": [
+    {
+      "show": false,
+      "id": "cclist2_release_001",
+      "type": "info",
+      "title": "CCList2 配信開始",
+      "message": "CCList2 は、チェックリスト・持ち物・買い物・作業手順などをシンプルに管理できるアプリです。グループごとの整理、重要項目管理、共有機能などを搭載しています。",
+      "url": "https://www.a-soft.info/ja/apps/cclist/",
+      "priority": 10,
+      "startDate": "2026-01-01T00:00:00+09:00",
+      "targets": null
+    },
+    {
+      "show": false,
+      "id": "mpiano_release_001",
+      "type": "info",
+      "title": "M-Piano 配信開始",
+      "message": "M-Piano は、コード・スケール・転回形・オンコードなどを視覚的に学習できるピアノコードアプリです。作曲・耳コピ・音楽理論学習にも活用できます。",
+      "url": "https://www.a-soft.info/ja/apps/m-piano/",
+      "priority": 9,
+      "startDate": "2026-01-01T00:00:00+09:00",
+      "targets": null
+    }
+  ]
+}

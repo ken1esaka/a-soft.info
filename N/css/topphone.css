@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+a {
+	color: navy;
+}
+
+
+a:hover {
+	color: blue;
+}
+
+body {
+	font-family: 'メイリオ', sans-serif;
+	font-size: 18px;
+	line-height: 120%;
+	color: #333;
+	margin: 0px;
+	padding: 0px;
+}
+
+/*font-familyのsans-serifは指定したフォントが全く入っていなかった場合にゴシック体系フォントにしてねという意味*/

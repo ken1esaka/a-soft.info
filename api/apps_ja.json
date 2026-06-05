@@ -1,0 +1,167 @@
+{
+  "version": 1,
+  "locale": "ja",
+  "source": "https://www.a-soft.info/ja/",
+  "generatedAt": "2026-03-05",
+  "siteURL": "https://www.a-soft.info/ja/",
+  "supportURL": "https://www.a-soft.info/ja/support/",
+  "apps": [
+    {
+      "id": "cclist2",
+      "section": "featured",
+      "sectionTitle": "おすすめアプリ",
+      "name": "CCList2",
+      "summary": "チェックリスト・持ち物管理アプリ",
+      "iconURL": "https://www.a-soft.info/assets/img/apps/etc/cclist_icon_256.png",
+      "detailURL": "https://www.a-soft.info/ja/apps/cclist/",
+      "isFeatured": true,
+      "show": true
+    },
+    {
+      "id": "m-piano",
+      "section": "m_series",
+      "sectionTitle": "Mシリーズ（次世代コードブック）",
+      "name": "M-Piano",
+      "summary": "次世代ピアノコードブック",
+      "iconURL": "https://www.a-soft.info/assets/img/apps/m-series/m_piano_icon_256.png",
+      "detailURL": "https://www.a-soft.info/ja/apps/m-piano/",
+      "isFeatured": true,
+      "show": true
+    },
+
+    {
+      "id": "p-chord",
+      "section": "legacy",
+      "sectionTitle": "コードブック（旧シリーズ）",
+      "name": "P-Chord",
+      "summary": "ピアノコードブック（旧形式アプリ）",
+      "iconURL": "https://www.a-soft.info/assets/img/apps/legacy/p_chord_icon_256.png",
+      "detailURL": "https://www.a-soft.info/ja/apps/legacy/pchord/",
+      "isFeatured": false,
+      "show": true
+    },
+    {
+      "id": "g-chord",
+      "section": "legacy",
+      "sectionTitle": "コードブック（旧シリーズ）",
+      "name": "G-Chord",
+      "summary": "ギターコードブック（旧形式アプリ）",
+      "iconURL": "https://www.a-soft.info/assets/img/apps/legacy/g_chord_icon_256.png",
+      "detailURL": "https://www.a-soft.info/ja/apps/legacy/gchord/",
+      "isFeatured": false,
+      "show": true
+    },
+    {
+      "id": "u-chord",
+      "section": "legacy",
+      "sectionTitle": "コードブック（旧シリーズ）",
+      "name": "U-Chord",
+      "summary": "ウクレレコードブック（旧形式アプリ）",
+      "iconURL": "https://www.a-soft.info/assets/img/apps/legacy/u_chord_icon_256.png",
+      "detailURL": "https://www.a-soft.info/ja/apps/legacy/uchord/",
+      "isFeatured": false,
+      "show": true
+    },
+    {
+      "id": "bu-chord",
+      "section": "legacy",
+      "sectionTitle": "コードブック（旧シリーズ）",
+      "name": "BU-Chord",
+      "summary": "バリトンウクレレコードブック（旧形式アプリ）",
+      "iconURL": "https://www.a-soft.info/assets/img/apps/legacy/bu_chord_icon_256.png",
+      "detailURL": "https://www.a-soft.info/ja/apps/legacy/buchord/",
+      "isFeatured": false,
+      "show": true
+    },
+    {
+      "id": "e-chord",
+      "section": "legacy",
+      "sectionTitle": "コードブック（旧シリーズ）",
+      "name": "E-Chord",
+      "summary": "エレキギターコードブック（旧形式アプリ）",
+      "iconURL": "https://www.a-soft.info/assets/img/apps/legacy/e_chord_icon_256.png",
+      "detailURL": "https://www.a-soft.info/ja/apps/legacy/echord/",
+      "isFeatured": false,
+      "show": true
+    },
+    {
+      "id": "g-chord-pro",
+      "section": "legacy",
+      "sectionTitle": "コードブック（旧シリーズ）",
+      "name": "G-Chord Pro",
+      "summary": "アコースティックギターコードブック（旧形式アプリ）",
+      "iconURL": "https://www.a-soft.info/assets/img/apps/legacy/g_chord_pro_icon_256.png",
+      "detailURL": "https://www.a-soft.info/ja/apps/legacy/gchord2/",
+      "isFeatured": false,
+      "show": true
+    },
+
+    {
+      "id": "a-note",
+      "section": "others",
+      "sectionTitle": "その他アプリ",
+      "name": "A-Note",
+      "summary": "グループ管理可能なメモ用アプリ",
+      "iconURL": "https://www.a-soft.info/assets/img/apps/legacy/a-notej_icon_256.png",
+      "detailURL": "https://www.a-soft.info/ja/apps/anote/",
+      "isFeatured": false,
+      "show": true,
+      "promoVersion": 1
+    },
+    {
+      "id": "a-calc0",
+      "section": "others",
+      "sectionTitle": "その他アプリ",
+      "name": "A-Calc0",
+      "summary": "シンプルリスト型電卓アプリ",
+      "iconURL": "https://www.a-soft.info/assets/img/apps/legacy/a-calc0_icon_256.png",
+      "detailURL": "https://www.a-soft.info/ja/apps/acalc0/",
+      "isFeatured": false,
+      "show": true
+    },
+    {
+      "id": "a-calcm",
+      "section": "others",
+      "sectionTitle": "その他アプリ",
+      "name": "A-CalcM",
+      "summary": "多機能リスト型電卓アプリ",
+      "iconURL": "https://www.a-soft.info/assets/img/apps/legacy/a-calcm_icon_256.png",
+      "detailURL": "https://www.a-soft.info/ja/apps/acalcm/",
+      "isFeatured": false,
+      "show": true
+    },
+    {
+      "id": "amagi",
+      "section": "others",
+      "sectionTitle": "その他アプリ",
+      "name": "Amagi",
+      "summary": "音遊び",
+      "iconURL": "https://www.a-soft.info/assets/img/apps/legacy/amagi_icon_256.png",
+      "detailURL": "https://www.a-soft.info/ja/apps/amagi/",
+      "isFeatured": false,
+      "show": true
+    },
+    {
+      "id": "cmail",
+      "section": "others",
+      "sectionTitle": "その他アプリ",
+      "name": "CMail",
+      "summary": "簡単写真メール",
+      "iconURL": "https://www.a-soft.info/assets/img/apps/legacy/ccmail_icon_256.png",
+      "detailURL": "https://www.a-soft.info/ja/apps/cmail/",
+      "isFeatured": false,
+      "show": true
+    },
+    {
+      "id": "smartqp",
+      "section": "others",
+      "sectionTitle": "その他アプリ",
+      "name": "SmartQP",
+      "summary": "宝くじ関係",
+      "iconURL": "https://www.a-soft.info/assets/img/apps/legacy/smartQp_icon_256.png",
+      "detailURL": "https://www.a-soft.info/ja/apps/smartqp/",
+      "isFeatured": false,
+      "show": true
+    }
+  ]
+}

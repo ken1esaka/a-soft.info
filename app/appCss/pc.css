@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+a {
+	color: navy;
+}
+
+
+a:hover {
+	color: blue;
+}
+
+body {
+	font-family: "メイリオ";
+	font-size: 18px;
+	line-height: 120%;
+	color: #333;
+	margin: 0px;
+	padding: 0px;
+}
+
+.normal {
+	font-family: "メイリオ";
+	font-size: 18px;
+	line-height: 120%;
+	color: #333;
+	margin: 0px;
+	padding: 0px;
+	font-weight: normal;
+}
+
+.font18 {
+	font-family: "メイリオ";
+	font-size: 18px;
+}
+
+.soft_name {
+	font-size: 38px;
+	font-family: "メイリオ";
+}

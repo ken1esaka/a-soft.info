@@ -1,0 +1,109 @@
+.menu21 {
+	line-height:50px;
+	text-align:center;
+	width:320px;
+	font-size:18px;
+}
+
+.menu21 a {
+	text-decoration:none;
+	color:#FFF;
+	display:block;
+	width: 100%;
+	background: #213eb1;
+	margin-top: 1px;
+}
+
+.menu21 a:hover {
+	text-decoration:none;
+	color:#FFF;
+	width:100%;
+	display:block;
+	font-weight:bold;
+	background: #000;
+}
+
+.menu21 a:visited {
+	color:#FFF;
+	width:100%;
+	display:block;
+}
+
+
+
+
+.menu22 {
+	line-height:50px;
+	text-align:center;
+	width:320px;
+	font-size:18px;
+}
+
+.menu22 a {
+	text-decoration:none;
+	color:#FFF;
+	display:block;
+	width: 100%;
+	background: #2A2D37;
+	margin-top: 1px;
+}
+
+.menu22 a:hover {
+	text-decoration:none;
+	color:#FFF;
+	width:100%;
+	display:block;
+	font-weight:bold;
+	background: #646665;
+}
+
+.menu22 a:visited {
+	color:#FFF;
+	width:100%;
+	display:block;
+}
+
+.btn {  
+
+	background: #EEE;  
+	border-top: 3px solid #DDD;  
+	border-left: 3px solid #DDD;  
+	border-right: 3px solid #BBB;  
+	border-bottom: 3px solid #BBB;  
+	color:#111;  
+	width: 100px;  
+	padding: 10px 0;  
+
+} 
+
+.btn3 {
+	line-height:25px;
+	text-align:center;
+	width:80px;
+	font-size:14px;
+}
+
+.btn3 a {
+	text-decoration:none;
+	color:#FFF;
+	display:block;
+	width: 100%;
+	background: #213eb1;
+	margin-top: 1px;
+}
+
+.btn3 a:hover {
+	text-decoration:none;
+	color:#FFF;
+	width:100%;
+	display:block;
+	font-weight:bold;
+	background: #000;
+}
+
+.btn3 a:visited {
+	color:#FFF;
+	width:100%;
+	display:block;
+}
+

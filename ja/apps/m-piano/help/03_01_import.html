@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>コード譜インポート | M-Piano ヘルプ</title>
+
+<link rel="stylesheet" href="help.css">
+    
+<style>
+.hero-half {
+  width: 100%;
+  height: auto;
+}
+
+@media (min-width: 900px) {
+  .hero-half {
+    width: 30%;
+  }
+}
+</style>
+
+</head>
+
+<body>
+    <div id="nav">
+        <nav class="topnav" style="display:flex; justify-content:center; gap:12px; flex-wrap:nowrap; overflow-x:auto; white-space:nowrap; font-size:0.9em;">
+            <a href="index.html">Top</a>
+            <a href="01_00_forward.html">Forward</a>
+            <a href="02_00_reverse.html">Reverse</a>
+            <a href="03_00_memo.html">Memo</a>
+            <a href="04_00_settings.html">Setting</a>
+            <a href="99_00_pro.html">Pro版</a>
+            <a href="99_01_faq.html">FAQ</a>
+        </nav>
+    </div>
+
+
+<header class="header">
+
+<h1>コード譜インポート</h1>
+
+<p class="subtitle">
+コード譜を貼り付けて、コード進行を自動解析してMemoに取り込む
+</p>
+
+</header>
+
+
+
+<section>
+
+<h2>概要</h2>
+
+<p>
+
+コード譜インポートは、テキストのコード譜を貼り付けるだけで
+コード進行を自動解析し、Memoに取り込む機能です。
+
+</p>
+
+<p>
+
+歌詞や説明文が混じっていても、コードとして認識できる部分を抽出します。
+
+</p>
+
+</section>
+
+
+
+<section>
+
+<h2>保存先ページ</h2>
+
+<p>
+
+「保存先ページ」で、どのMemoページに取り込むかを選択します。
+
+</p>
+
+<ul>
+
+<li>（未選択）を含むメニューから選べます</li>
+<li>ページ名が空の場合は（無題）と表示されます</li>
+
+</ul>
+
+<p>
+
+※ Pro版ではMemoがページ管理され、ページ数も扱いやすくなります。
+
+</p>
+
+</section>
+
+
+
+<section>
+
+<h2>画面の各項目</h2>
+
+<p>
+
+編集モードでは、コードらしい文字列が見やすいようにハイライトされます。
+
+</p>
+
+<img class="hero-img" src="help_inp01.png" alt="M‑Piano インポート画面" style="width:60%; height:auto; display:block; margin:0 auto;">
+
+<p><strong>① 編集モード</strong><br>
+コード譜を入力・修正するモードです。コードとして認識できる文字列はハイライト表示されます。</p>
+
+<p><strong>② 編集エリア</strong><br>
+コード譜や歌詞付きコードを入力するテキストエリアです。貼り付けた内容からコードが自動解析されます。</p>
+
+<p><strong>③ フォントサイズ変更スライダー</strong><br>
+表示文字サイズを調整します。編集モードとプレビューモードの両方に反映されます。</p>
+
+<p><strong>④ 新しいページに取り込むスイッチ</strong><br>
+オンにすると、選択中のページではなく新しいページを作ってインポートします。</p>
+
+<p><strong>⑤ 同じコードを複数回取り込むスイッチ</strong><br>
+オンにすると、同じコードが繰り返し出現してもそのまま取り込みます。</p>
+
+<p><strong>⑥ 貼り付けボタン</strong><br>
+クリップボードのテキストを編集エリアに貼り付けます。</p>
+
+<p><strong>⑦ クリアボタン</strong><br>
+編集エリアの内容をすべて削除します。</p>
+
+<p><strong>⑧ インポート実行ボタン</strong><br>
+解析されたコード進行をMemoに取り込みます（Pro版のみ）。</p>
+
+</section>
+
+<section>
+
+<h2>プレビューモード</h2>
+
+<p>
+
+プレビューモードでは、解析されたコードが見やすく表示されます。
+
+</p>
+
+<img class="hero-img" src="help_inp02.png" alt="M‑Piano インポート画面" style="width:60%; height:auto; display:block; margin:0 auto;">
+
+<p><strong>⑧ プレビューモード</strong><br>
+解析結果を確認するモードです。認識されたコードが見やすく表示されます。</p>
+
+<p><strong>⑨ サウンド確認ボタン</strong><br>
+Pro版では、プレビュー中にコード名をタップすると音を確認できます。</p>
+
+<p class="note">
+入力中はキーボードに「完了」ボタンが表示され、すぐ閉じられます。
+</p>
+
+<p>
+Pro版では、<strong>青色で表示されたコード名</strong>をタップすると
+その場で音を確認できます。
+</p>
+
+<p class="note">
+※ 非課金版では、プレビュー中のコード名タップによる再生はできません。
+</p>
+
+</section>
+
+
+
+<section>
+
+<h2>使い方の例</h2>
+
+<p>
+
+たとえば、次のようなコード譜を貼り付けます。
+
+</p>
+
+<pre>
+
+    CM7  Bm7  D/E  Em
+    頑張らなくてもいいいんだよ
+    (ピアノのみ)
+
+    C  G/B  Am7/D  D7
+    G/D D/F#  Em  Em7  C  G/B  Am7  D
+
+    (ミュートアルペジオ)
+    G    D/F#    Em    Em7        C   C/B   Am7     D
+      朝の光が まぶしすぎる日は 布団の中で 少しだけ夢を見よう
+    G    D/F#    Em    Em7            C    G/B    Am7      G
+       昨日の涙も うまく笑えない顔も 誰かと比べなくていいんだよ
+
+</pre>
+
+<p>
+
+プレビューで解析結果を確認し、問題なければ「インポート実行」でMemoに取り込みます。
+
+</p>
+<div style="text-align:center; font-size:28px; margin:10px 0;">↓</div>
+<img class="hero-img hero-half" src="help_memo.png" alt="M‑Piano インポート結果" style="display:block; margin:0 auto;">
+</section>
+
+</body>
+</html>

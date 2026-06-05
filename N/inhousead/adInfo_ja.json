@@ -1,0 +1,23 @@
+{
+  "all": {
+    "icon": "asoft_ad.png",
+    "url": "https://www.a-soft.info/",
+    "background": "#888888",
+    "hideAd": false,
+    "enabled" : false
+  },
+  "ACalc": {
+    "icon": "asoft_ad.png",
+    "url": "https://www.a-soft.info/",
+    "background": "#ffffff",
+    "hideAd": false,
+    "enabled" : true
+  },
+  "ACalcM": {
+    "icon": "forcalcm.png",
+    "url": "https://calcmexsample.com",
+    "background": "#000000",
+    "hideAd": true,
+    "enabled" : true
+  }
+}
