@@ -22,10 +22,9 @@ jobs:
           protocol: ftps
           port: 21
           security: strict
-          passive: true
           timeout: 60000
           local-dir: ./
-          server-dir: /htdocs/
+          server-dir: /httpdocs/
           exclude: |
             */.git
             **/.DS_Store
